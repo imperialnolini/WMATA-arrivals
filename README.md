@@ -5,7 +5,7 @@ This guide contains instructions to set up an iPhone widget which will show the 
 The widget looks like this:
 
 
-![](https://github.com/user-attachments/assets/dd8aaa8c-76a6-4fcf-8a1b-4e570831e1d0 | width = 100)
+![](https://github.com/user-attachments/assets/dd8aaa8c-76a6-4fcf-8a1b-4e570831e1d0)
 
 I adapted the code for this from https://github.com/metro-sign/dc-metro.
 
