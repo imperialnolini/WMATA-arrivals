@@ -19,7 +19,7 @@ This guide assumes you’ll follow the steps below from your iPhone itself.
 
 2. Open the script template in the Scriptable app:
 
-    * The template is [here](https://github.com/imperialnolini/WMATA-arrivals/blob/2f9e9bedfd52a0ba3f8fd353298edc277f41f035/2%20WMATA%20ifelse%20w%20loc%20-%20share.scriptable).
+  * The template is [here](https://github.com/imperialnolini/WMATA-arrivals/blob/2f9e9bedfd52a0ba3f8fd353298edc277f41f035/2%20WMATA%20ifelse%20w%20loc%20-%20share.scriptable).
 
 3. 
 
