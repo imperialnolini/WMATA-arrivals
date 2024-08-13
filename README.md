@@ -7,7 +7,7 @@ The widget looks like this:
 
 ![](https://github.com/user-attachments/assets/dd8aaa8c-76a6-4fcf-8a1b-4e570831e1d0)
 
-I adapted the code for this from https://github.com/metro-sign/dc-metro.
+I adapted the code for this from [here](https://github.com/metro-sign/dc-metro).
 
 I wrote this for train stations and to show the next five arrivals (though the widget will show fewer than five if there are fewer than five trains on the way).
 
@@ -19,7 +19,7 @@ This guide assumes you’ll follow the steps below from your iPhone itself.
 
 2. Open the script template in the Scriptable app:
 
-    * From your iPhone, go [here]([https://github.com/imperialnolini/WMATA-arrivals/blob/2f9e9bedfd52a0ba3f8fd353298edc277f41f035/2%20WMATA%20ifelse%20w%20loc%20-%20share.scriptable](https://github.com/imperialnolini/WMATA-arrivals/blob/3a92bb9fff50dc1c440afe5488282954d8b6efc2/2%20WMATA%20ifelse%20w%20loc%20-%20share)).
+    * From your iPhone, go [here](https://github.com/imperialnolini/WMATA-arrivals/blob/2f9e9bedfd52a0ba3f8fd353298edc277f41f035/2%20WMATA%20ifelse%20w%20loc%20-%20share.scriptable](https://github.com/imperialnolini/WMATA-arrivals/blob/3a92bb9fff50dc1c440afe5488282954d8b6efc2/2%20WMATA%20ifelse%20w%20loc%20-%20share).
     * Click the three dots in the top right corner, “Open in,” scroll to the end of the row of apps, click “More,” scroll down, and click Scriptable. If the Scriptable logo already was included in that row of apps, click it there.
     * Click “Add to my scripts.”
 
