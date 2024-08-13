@@ -2,7 +2,7 @@
 const widget = new ListWidget()
 
 
-// LIST OF DICTIONARIES FOR UPCOMING ARRIVALS AT VA SQUARE ----
+// LIST OF DICTIONARIES FOR UPCOMING ARRIVALS ----
 const req = new Request("https://api.wmata.com/StationPrediction.svc/json/GetPrediction/x") // x at end is the code for your stop
 const loc_name = "*STOP NAME HERE*" //write this so location stack at end has location
 req.headers = {"api_key": "y"} // y is your API key
