@@ -2,8 +2,8 @@
 
 This guide contains instructions to set up an iPhone widget which will show the train arrivals at a Washington Metropolitan Area Transit Authority (WMATA) metro station of your choosing (line color, destination, and minutes until arrival). The widget pulls this information from WMATA's API, so it’s real-time. The datetime stamp in the bottom right corner shows when the widget was last updated, and the line above it shows the station’s name (so you don’t mix them up in case you want to have multiple widgets).
 
-The widget looks like this:
 
+The widget looks like this:
 
 ![](https://github.com/user-attachments/assets/dd8aaa8c-76a6-4fcf-8a1b-4e570831e1d0)
 
