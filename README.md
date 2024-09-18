@@ -23,7 +23,7 @@ This guide assumes you’ll follow the steps below from your iPhone itself.
     * Select all the text and copy it to your clipboard.
     * Create a new script in the Scriptable app and paste the code inside it.
 
-3. Go to [this GitHub repo](metro-sign/dc-metro), and use that information to edit the “LIST OF DICTIONARIES FOR UPCOMING ARRIVALS” section of the script (it starts at line five):
+3. Go to [this GitHub repo](https://github.com/metro-sign/dc-metro), and use that information to edit the “LIST OF DICTIONARIES FOR UPCOMING ARRIVALS” section of the script (it starts at line five):
 
     * On line 6, replace “x” with the code for your metro stop (see the appendix of that GitHub website).
     * On line 7, replace “*STOP NAME HERE*” with the name of the metro stop corresponding with the code you use to replace “x.”
