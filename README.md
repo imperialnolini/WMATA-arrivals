@@ -7,7 +7,7 @@ The widget looks like this:
 
 ![](https://github.com/user-attachments/assets/dd8aaa8c-76a6-4fcf-8a1b-4e570831e1d0)
 
-I adapted the code for this from [here](https://github.com/metro-sign/dc-metro).
+I adapted the code for this from the Python version [here](https://github.com/metro-sign/dc-metro) (the version I made is in JavaScript).
 
 I wrote this for train stations and to show the next five arrivals (though the widget will show fewer than five if there are fewer than five trains on the way).
 
